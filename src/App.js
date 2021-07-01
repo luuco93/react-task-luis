@@ -5,7 +5,7 @@ import { TaskCreator } from "./components/TaskCreator";
 import { VisibilityControl } from "./components/VisibilityControl";
 
 function App() {
-  const [userName, setUserName] = useState("Fazt");
+  const [userName, setUserName] = useState("Luis");
   const [taskItems, setTaskItems] = useState([
     { name: "Task One", done: false },
     { name: "Task Two", done: false },

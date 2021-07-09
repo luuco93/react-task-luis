@@ -62,6 +62,7 @@ function App() {
             <tr>
               <th>Description</th>
               <th>Done</th>
+              ta
             </tr>
           </thead>
           <tbody>{taskTableRows(false)}</tbody>
